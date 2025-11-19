@@ -4,7 +4,7 @@ const path = require('node:path');
 const dotenv = require('dotenv')
 dotenv.config()
 const clientId = process.env.DISCORD_CLIENT_ID
-const guildId = process.env.DISCORD_GUILD_ID
+const guildId = process.env.DISCORD_GUILD_ID // specific server deploy
 const token = process.env.DISCORD_TOKEN
 const commands = [];
 // Grab all the command folders from the commands directory you created earlier
