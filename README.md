@@ -1,4 +1,4 @@
-## 👹 Guide Bot (anyone)
+## 👹 Guide Bot (Discord Bot)
 
 ### 🖥️ Technologies
 - Node.js  
