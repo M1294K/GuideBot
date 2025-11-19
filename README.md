@@ -30,5 +30,4 @@ Not Yet
 ---
 
 ### 😢 What I Will Improve
-Moving forward, I plan to use AWS in future projects to build a more robust and production-grade deployment pipeline.  
-I also plan to study more web security to avoid similar issues and improve the overall security posture of my applications.
+idk
